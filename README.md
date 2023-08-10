@@ -38,7 +38,7 @@ To set up and run this project, you will need the following hardware components:
 
 ## Circuit Diagram
 
-![Circuit Diagram]([<>](https://github.com/MAzewail/Collision-Avoidance-Robot-Relay-Based/blob/main/2WD%20robot%20using%20relays.png))
+![Circuit Diagram](https://github.com/MAzewail/Collision-Avoidance-Robot-Relay-Based/blob/main/2WD%20robot%20using%20relays.png)
 
 The circuit diagram above illustrates the connections between the microcontroller board, ultrasonic sensor module, relays, motors, LED, and other components. Ensure that you make the appropriate connections based on the diagram when setting up the hardware.
 
