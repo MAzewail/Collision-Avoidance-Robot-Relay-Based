@@ -17,6 +17,8 @@ Welcome to the Collision Avoidance Robot with Ultrasonic Sensor (Relay-Based) Gi
 
 The Collision Avoidance Robot with Ultrasonic Sensor (Relay-Based) is designed to navigate its surroundings while minimizing the risk of collisions. It achieves this by incorporating an ultrasonic sensor that measures the distance to objects in its path. Based on this distance information, the robot adjusts its path by controlling the movement of its motors using relays. By activating the appropriate relays, the robot can turn left or right to avoid obstacles.
 
+- [TinkerCad link](https://www.tinkercad.com/things/jWn3xKmINRg)
+
 ## Features
 
 - Collision avoidance mechanism utilizing an ultrasonic sensor.
